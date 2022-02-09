@@ -1,3 +1,28 @@
+@font-face {
+    font-family: "Channe";
+    src: url(./Channe.ttf);
+}
+@font-face {
+    font-family: "Gilroy";
+    font-weight: 500;
+    src: url(./Gilroy-SemiBold.ttf);
+}
+@font-face {
+    font-family: "Gilroy";
+    font-weight: 400;
+    src: url(./Gilroy-Regular.ttf);
+}
+@font-face {
+    font-family: "Gilroy";
+    font-weight: 800;
+    src: url(./Gilroy-Bold.ttf);
+}
+@font-face {
+    font-family: "Gilroy";
+    font-weight: 700;
+    src: url(./Gilroy-SemiBold.ttf);
+}
+
 *{
     margin: 0%;
     padding: 0%;
